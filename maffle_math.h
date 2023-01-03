@@ -1,7 +1,3 @@
-/*
-Create a library that is similar to math but more faster and shorter
-*/
-
 #ifndef Maffle_Math
 #define Maffle_Math
 
